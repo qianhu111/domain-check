@@ -5,6 +5,8 @@
   { "domain": "qianhu.ggff.net", "registrationDate": "2024-12-04", "expirationDate": "2025-12-04", "system": "l53", "systemURL": "https://www.l53.net/" },
   { "domain": "qianhu.ip-ddns.com", "registrationDate": "2024-12-05", "expirationDate": "2034-12-05", "system": "cloudns", "systemURL": "https://www.cloudns.net/" },
   { "domain": "qianhuya.us.kg", "registrationDate": "2025-02-10", "expirationDate": "2026-02-10", "system": "us.kg", "systemURL": "https://nic.us.kg/" },
-  { "domain": "qianhu.rr.nu", "registrationDate": "2024-12-04", "expirationDate": "2034-12-04", "system": "sitelutions", "systemURL": "https://www.sitelutions.com/" },
-  { "domain": "qianhu.dynv6.net", "registrationDate": "2024-07-17", "expirationDate": "2034-07-16", "system": "dynv6", "systemURL": "https://dynv6.com/" }
+  { "domain": "qianhu.rr.nu", "registrationDate": "2024-12-04", "expirationDate": "2034-12-04", "system": "rr.nu", "systemURL": "https://www.sitelutions.com/" },
+  { "domain": "qianhu.dynv6.net", "registrationDate": "2024-07-17", "expirationDate": "2034-07-16", "system": "dynv6", "systemURL": "https://dynv6.com/" },
+  { "domain": "qianhu.pp.ua", "registrationDate": "2025-01-01", "expirationDate": "2026-01-01", "system": "pp.ua", "systemURL": "https://nic.ua/" },
+  { "domain": "qianhu.eu.org", "registrationDate": "2025-01-01", "expirationDate": "2026-01-01", "system": "eu.org", "systemURL": "https://nic.eu.org/" }
 ]
